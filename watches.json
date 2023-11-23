@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "Apple",
+    "model": "Apple Watch Series 7",
+    "releaseYear": 2021,
+    "color": "Space Gray",
+    "price": 399.99,
+    "features": ["Fitness Tracking", "ECG", "Always-On Display"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Watch 4",
+    "releaseYear": 2021,
+    "color": "Mystic Black",
+    "price": 249.99,
+    "features": ["Health Monitoring", "Sleep Tracking", "Google Wear OS"]
+  },
+  {
+    "brand": "Fitbit",
+    "model": "Sense",
+    "releaseYear": 2020,
+    "color": "Carbon/Graphite",
+    "price": 299.95,
+    "features": ["Stress Tracking", "Built-in GPS", "SpO2 Monitoring"]
+  },
+  {
+    "brand": "Garmin",
+    "model": "Venu 2",
+    "releaseYear": 2021,
+    "color": "Silver",
+    "price": 399.99,
+    "features": ["AMOLED Display", "Body Battery", "Music Streaming"]
+  },
+  {
+    "brand": "Huawei",
+    "model": "Watch GT 3",
+    "releaseYear": 2022,
+    "color": "Titanium Grey",
+    "price": 329.99,
+    "features": ["SPO2 Monitoring", "TruSeen Heart Rate", "14-Day Battery Life"]
+  }
+]
